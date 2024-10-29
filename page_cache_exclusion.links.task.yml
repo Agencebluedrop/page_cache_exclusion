@@ -1,0 +1,4 @@
+page_cache_exclusion.admin:
+  title: 'Page Cache Exclusion'
+  base_route: system.performance_settings
+  route_name: page_cache_exclusion.admin

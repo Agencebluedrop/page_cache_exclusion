@@ -1,0 +1,5 @@
+page_cache_exclusion.admin:
+  title: 'Page Cache Exclusion'
+  description: 'Configuration for Page Cache Exclusion plugin.'
+  route_name: page_cache_exclusion.admin
+  parent: system.performance_settings

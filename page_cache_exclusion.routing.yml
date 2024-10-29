@@ -1,0 +1,7 @@
+page_cache_exclusion.admin:
+  path: 'admin/config/development/performance/page_cache_exclusion'
+  defaults:
+    _form: '\Drupal\page_cache_exclusion\Form\PageCacheExclusionConfigForm'
+    _title: 'Page cache exclusion'
+  requirements:
+    _permission: 'administer site configuration'
